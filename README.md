@@ -16,6 +16,14 @@ please refer the pothole_yolov12.ipynb
 - (reference) valid true label
 ![valid true label](https://github.com/minchoCoin/pothole_detection_yolo/blob/main/train/val_batch0_labels.jpg)
 
+- valid result1
+
+![result1](https://github.com/minchoCoin/pothole_detection_yolo/blob/main/results1.png)
+
+- valid result2
+
+![result2](https://github.com/minchoCoin/pothole_detection_yolo/blob/main/results2.png)
+
 # Environment
 - Google Colab A100
 
